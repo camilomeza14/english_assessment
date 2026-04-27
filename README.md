@@ -32,7 +32,7 @@ project/
 - **Photos** – Image gallery
 - **Footer** – Contact info and social media links
 
-## How to View Locally
+## How to Run
 1. Download or clone the project files.
 2. Open `index.html` in any web browser.
 3. No additional tools or installations required.
