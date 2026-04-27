@@ -19,6 +19,7 @@ project/
 ├── sold.jpg      → Photo
 └── rockssss.jpg  → Photo
 └── kiss.jpg      → Photo
+└── github.txt    → Repository's link 
 
 
 ```
